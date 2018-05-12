@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8182
     wikipedia: https://en.wikipedia.org/wiki/George_William_Thomson_Omond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18670#Bruges-and-West-Flanders
 gutenberg_issued: '2006-06-23'
 gutenberg_type: Text
 identifiers:
